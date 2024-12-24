@@ -1,0 +1,8 @@
+The CS dept offers
+several courses every 
+semester.
+
+Several classes are offered 
+every semester. Among them we
+can name cmsc131, cmsc132,
+cmsc216.
